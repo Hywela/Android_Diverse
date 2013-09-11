@@ -1,4 +1,4 @@
-//Eksemple på nedlasting av et rtf dokument     String str = DownloadText("http://www.ettellerannet");
+//Eksemple på nedlasting av et txt dokument     String str = DownloadText("http://www.ettellerannet");
 
    private String DownloadText(String strURL)
    {
